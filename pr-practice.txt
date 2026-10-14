@@ -1,1 +1,1 @@
-Change from PR feature branch.
+Both PR changes were reviewed and conflict resolved.
