@@ -1,1 +1,1 @@
-Change from the second PR branch.
+Both PR changes were reviewed and conflict resolved.
